@@ -1,2 +1,6 @@
 Nevena is dumb x2
+<<<<<<< HEAD
 nesto na kraj
+=======
+aaaa
+>>>>>>> main
